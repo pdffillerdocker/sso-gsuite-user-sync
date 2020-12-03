@@ -1,0 +1,4 @@
+.idea/
+**/tmp[_-]*/*
+.vscode/
+sso-gsuite-user-sync
